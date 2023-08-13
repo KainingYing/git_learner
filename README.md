@@ -4,4 +4,4 @@ abc
 
 user1: Nice try!
 
-user1: What happens?
+user2: Yes, thank you!
