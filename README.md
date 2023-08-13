@@ -10,4 +10,4 @@ user1: Update
 
 user1: Let's go.
 
-hello
+nihao
